@@ -3,11 +3,11 @@
 Project: Object-Oriented Development
 Hotel Booking System
 
-SUMMARY
+SUMMARY:
 Developed an object-oriented Hotel Booking System in Java, incorporating input validation, room booking, check-in/check-out tracking, room cleaning management, guest services billing, loyalty program implementation, and seasonal rate adjustments
 
 
-PROJECT DETAILS
+PROJECT DETAILS:
 During the pandemic, when few people were traveling, a new luxury hotel opened up. With only a few visitors, they were managing to handle all their room bookings manually in a paper diary. However, as demand started to increase, they found it increasingly difficult to manage.
 For this project, I worked in pairs using pair programming, and the new booking system we developed was object-oriented. 
 
